@@ -3,8 +3,7 @@ h1 {
     text-align: center;
     color: green;
 }
+
 p {
-    color: red;
-    size: 14px;
-    margin-left: 100px;
+    color: aqua;
 }
